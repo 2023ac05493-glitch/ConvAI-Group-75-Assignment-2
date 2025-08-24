@@ -1,0 +1,402 @@
+[
+  {
+    "prompt": "What was BERKSHIRE HATHAWAY INC's total liabilities in 20221231?",
+    "completion": "BERKSHIRE HATHAWAY INC reported total liabilities of 466784000000.0 in 20221231."
+  },
+  {
+    "prompt": "What was FIDELITY NATIONAL INFORMATION SERVICES, INC.'s cash and cash equivalents in 20241231?",
+    "completion": "FIDELITY NATIONAL INFORMATION SERVICES, INC. reported cash and cash equivalents of 834000000.0 in 20241231."
+  },
+  {
+    "prompt": "What was GLOBAL GAS CORP's net income in 20231231?",
+    "completion": "GLOBAL GAS CORP reported net income of -300176.0 in 20231231."
+  },
+  {
+    "prompt": "What was YUM BRANDS INC's revenue in 20241231?",
+    "completion": "YUM BRANDS INC reported revenue of 7549000000.0 in 20241231."
+  },
+  {
+    "prompt": "What was REINSURANCE GROUP OF AMERICA INC's total liabilities in 20211231?",
+    "completion": "REINSURANCE GROUP OF AMERICA INC reported total liabilities of 84761000000.0 in 20211231."
+  },
+  {
+    "prompt": "What was PCS EDVENTURES!, INC.'s cash and cash equivalents in 20230331?",
+    "completion": "PCS EDVENTURES!, INC. reported cash and cash equivalents of 442657.0 in 20230331."
+  },
+  {
+    "prompt": "What was EQUITABLE FINANCIAL LIFE INSURANCE CO's revenue in 20221231?",
+    "completion": "EQUITABLE FINANCIAL LIFE INSURANCE CO reported revenue of 0.0 in 20221231."
+  },
+  {
+    "prompt": "What was IIOT-OXYS, INC.'s net income in 20231231?",
+    "completion": "IIOT-OXYS, INC. reported net income of -1067929.0 in 20231231."
+  },
+  {
+    "prompt": "What was JANEL CORP's total assets in 20230930?",
+    "completion": "JANEL CORP reported total assets of 34823000.0 in 20230930."
+  },
+  {
+    "prompt": "What was GENESCO INC's cash and cash equivalents in 20240131?",
+    "completion": "GENESCO INC reported cash and cash equivalents of 23200000.0 in 20240131."
+  },
+  {
+    "prompt": "What was ESSENTIAL UTILITIES, INC.'s revenue in 20221231?",
+    "completion": "ESSENTIAL UTILITIES, INC. reported revenue of 61698000.0 in 20221231."
+  },
+  {
+    "prompt": "What was LIBERTY GLOBAL LTD.'s total assets in 20231231?",
+    "completion": "LIBERTY GLOBAL LTD. reported total assets of 48039400000.0 in 20231231."
+  },
+  {
+    "prompt": "What was KINETIK HOLDINGS INC.'s total assets in 20240531?",
+    "completion": "KINETIK HOLDINGS INC. reported total assets of 1572447000.0 in 20240531."
+  },
+  {
+    "prompt": "What was KADANT INC's net income in 20221231?",
+    "completion": "KADANT INC reported net income of 120928000.0 in 20221231."
+  },
+  {
+    "prompt": "What was CITY HOLDING CO's net income in 20211231?",
+    "completion": "CITY HOLDING CO reported net income of 0.0 in 20211231."
+  },
+  {
+    "prompt": "What was FLUOR CORP's revenue in 20221231?",
+    "completion": "FLUOR CORP reported revenue of 1138000000.0 in 20221231."
+  },
+  {
+    "prompt": "What was RADIAN GROUP INC's net income in 20221231?",
+    "completion": "RADIAN GROUP INC reported net income of 742934000.0 in 20221231."
+  },
+  {
+    "prompt": "What was SLR INVESTMENT CORP.'s total assets in 20221231?",
+    "completion": "SLR INVESTMENT CORP. reported total assets of 332247000.0 in 20221231."
+  },
+  {
+    "prompt": "What was ZYVERSA THERAPEUTICS, INC.'s total liabilities in 20231231?",
+    "completion": "ZYVERSA THERAPEUTICS, INC. reported total liabilities of 11039686.0 in 20231231."
+  },
+  {
+    "prompt": "What was PHENIXFIN CORP's total assets in 20230930?",
+    "completion": "PHENIXFIN CORP reported total assets of 239693465.0 in 20230930."
+  },
+  {
+    "prompt": "What was ARCHER-DANIELS-MIDLAND CO's total assets in 20231231?",
+    "completion": "ARCHER-DANIELS-MIDLAND CO reported total assets of 25473000000.0 in 20231231."
+  },
+  {
+    "prompt": "What was NISOURCE INC.'s cash and cash equivalents in 20211231?",
+    "completion": "NISOURCE INC. reported cash and cash equivalents of 84200000.0 in 20211231."
+  },
+  {
+    "prompt": "What was MYR GROUP INC.'s total liabilities in 20231231?",
+    "completion": "MYR GROUP INC. reported total liabilities of 927544000.0 in 20231231."
+  },
+  {
+    "prompt": "What was AMES NATIONAL CORP's total assets in 20241231?",
+    "completion": "AMES NATIONAL CORP reported total assets of 2133180000.0 in 20241231."
+  },
+  {
+    "prompt": "What was CASSAVA SCIENCES INC's total liabilities in 20231231?",
+    "completion": "CASSAVA SCIENCES INC reported total liabilities of 14195000.0 in 20231231."
+  },
+  {
+    "prompt": "What was SUNSTONE HOTEL INVESTORS, INC.'s total liabilities in 20241231?",
+    "completion": "SUNSTONE HOTEL INVESTORS, INC. reported total liabilities of 1002619000.0 in 20241231."
+  },
+  {
+    "prompt": "What was NORTHROP GRUMMAN CORP /DE/'s revenue in 20211231?",
+    "completion": "NORTHROP GRUMMAN CORP /DE/ reported revenue of 72000000.0 in 20211231."
+  },
+  {
+    "prompt": "What was ALLIANT ENERGY CORP's total assets in 20221231?",
+    "completion": "ALLIANT ENERGY CORP reported total assets of 19062000000.0 in 20221231."
+  },
+  {
+    "prompt": "What was HILLS BANCORPORATION's total liabilities in 20241231?",
+    "completion": "HILLS BANCORPORATION reported total liabilities of 3892000.0 in 20241231."
+  },
+  {
+    "prompt": "What was HUNTINGTON INGALLS INDUSTRIES, INC.'s revenue in 20221231?",
+    "completion": "HUNTINGTON INGALLS INDUSTRIES, INC. reported revenue of 437000000.0 in 20221231."
+  },
+  {
+    "prompt": "What was PHX MINERALS INC.'s total liabilities in 20241231?",
+    "completion": "PHX MINERALS INC. reported total liabilities of 714408.0 in 20241231."
+  },
+  {
+    "prompt": "What was CORONADO GLOBAL RESOURCES INC.'s total assets in 20231231?",
+    "completion": "CORONADO GLOBAL RESOURCES INC. reported total assets of 1322610000.0 in 20231231."
+  },
+  {
+    "prompt": "What was RTX CORP's revenue in 20241231?",
+    "completion": "RTX CORP reported revenue of 5493000000.0 in 20241231."
+  },
+  {
+    "prompt": "What was RAYONIER INC's revenue in 20231231?",
+    "completion": "RAYONIER INC reported revenue of 264128000.0 in 20231231."
+  },
+  {
+    "prompt": "What was FULCRUM THERAPEUTICS, INC.'s cash and cash equivalents in 20231231?",
+    "completion": "FULCRUM THERAPEUTICS, INC. reported cash and cash equivalents of 25563000.0 in 20231231."
+  },
+  {
+    "prompt": "What was MANPOWERGROUP INC.'s total assets in 20211231?",
+    "completion": "MANPOWERGROUP INC. reported total assets of 3691200000.0 in 20211231."
+  },
+  {
+    "prompt": "What was GENTEX CORP's cash and cash equivalents in 20221231?",
+    "completion": "GENTEX CORP reported cash and cash equivalents of 214754638.0 in 20221231."
+  },
+  {
+    "prompt": "What was IRON HORSE ACQUISITIONS CORP.'s net income in 20231231?",
+    "completion": "IRON HORSE ACQUISITIONS CORP. reported net income of -308792.0 in 20231231."
+  },
+  {
+    "prompt": "What was FLOWSERVE CORP's total assets in 20241231?",
+    "completion": "FLOWSERVE CORP reported total assets of 1739425000.0 in 20241231."
+  },
+  {
+    "prompt": "What was ARTHUR J. GALLAGHER & CO.'s total assets in 20211231?",
+    "completion": "ARTHUR J. GALLAGHER & CO. reported total assets of 84700000.0 in 20211231."
+  },
+  {
+    "prompt": "What was SSR MINING INC.'s total liabilities in 20231231?",
+    "completion": "SSR MINING INC. reported total liabilities of 1081570000.0 in 20231231."
+  },
+  {
+    "prompt": "What was U-HAUL HOLDING CO /NV/'s revenue in 20250331?",
+    "completion": "U-HAUL HOLDING CO /NV/ reported revenue of 151974000.0 in 20250331."
+  },
+  {
+    "prompt": "What was FEDERAL SIGNAL CORP /DE/'s revenue in 20221231?",
+    "completion": "FEDERAL SIGNAL CORP /DE/ reported revenue of 1149800000.0 in 20221231."
+  },
+  {
+    "prompt": "What was HESS MIDSTREAM LP's total assets in 20221231?",
+    "completion": "HESS MIDSTREAM LP reported total assets of 275800000.0 in 20221231."
+  },
+  {
+    "prompt": "What was PERIMETER SOLUTIONS, INC.'s total liabilities in 20231231?",
+    "completion": "PERIMETER SOLUTIONS, INC. reported total liabilities of 1163127000.0 in 20231231."
+  },
+  {
+    "prompt": "What was GRAHAM HOLDINGS CO's total assets in 20231231?",
+    "completion": "GRAHAM HOLDINGS CO reported total assets of 687222000.0 in 20231231."
+  },
+  {
+    "prompt": "What was ALLETE INC's total assets in 20221231?",
+    "completion": "ALLETE INC reported total assets of 6845600000.0 in 20221231."
+  },
+  {
+    "prompt": "What was TRAVEL & LEISURE CO.'s total liabilities in 20231231?",
+    "completion": "TRAVEL & LEISURE CO. reported total liabilities of 2075000000.0 in 20231231."
+  },
+  {
+    "prompt": "What was EMERGENT BIOSOLUTIONS INC.'s total liabilities in 20231231?",
+    "completion": "EMERGENT BIOSOLUTIONS INC. reported total liabilities of 1173900000.0 in 20231231."
+  },
+  {
+    "prompt": "What was MERCK & CO., INC.'s revenue in 20231231?",
+    "completion": "MERCK & CO., INC. reported revenue of 31635000000.0 in 20231231."
+  },
+  {
+    "prompt": "What was VORNADO REALTY TRUST's total liabilities in 20231231?",
+    "completion": "VORNADO REALTY TRUST reported total liabilities of 2735826000.0 in 20231231."
+  },
+  {
+    "prompt": "What was BALDWIN INSURANCE GROUP, INC.'s net income in 20241231?",
+    "completion": "BALDWIN INSURANCE GROUP, INC. reported net income of -24518000.0 in 20241231."
+  },
+  {
+    "prompt": "What was IHEARTMEDIA, INC.'s total assets in 20231231?",
+    "completion": "IHEARTMEDIA, INC. reported total assets of 5443207000.0 in 20231231."
+  },
+  {
+    "prompt": "What was EXXON MOBIL CORP's net income in 20221231?",
+    "completion": "EXXON MOBIL CORP reported net income of 24751000000.0 in 20221231."
+  },
+  {
+    "prompt": "What was TITAN MACHINERY INC.'s revenue in 20240131?",
+    "completion": "TITAN MACHINERY INC. reported revenue of 33391000.0 in 20240131."
+  },
+  {
+    "prompt": "What was AXCELIS TECHNOLOGIES INC's revenue in 20211231?",
+    "completion": "AXCELIS TECHNOLOGIES INC reported revenue of 645504000.0 in 20211231."
+  },
+  {
+    "prompt": "What was KINDER MORGAN, INC.'s revenue in 20221231?",
+    "completion": "KINDER MORGAN, INC. reported revenue of 6234000000.0 in 20221231."
+  },
+  {
+    "prompt": "What was NATHANS FAMOUS, INC.'s net income in 20230331?",
+    "completion": "NATHANS FAMOUS, INC. reported net income of 0.0 in 20230331."
+  },
+  {
+    "prompt": "What was RESERVE PETROLEUM CO's total liabilities in 20221231?",
+    "completion": "RESERVE PETROLEUM CO reported total liabilities of 1437509.0 in 20221231."
+  },
+  {
+    "prompt": "What was CIRCLE ENERGY, INC./NV's revenue in 20231231?",
+    "completion": "CIRCLE ENERGY, INC./NV reported revenue of 0.0 in 20231231."
+  },
+  {
+    "prompt": "What was CHEMED CORP's total liabilities in 20241231?",
+    "completion": "CHEMED CORP reported total liabilities of 549582000.0 in 20241231."
+  },
+  {
+    "prompt": "What was ALBANY INTERNATIONAL CORP /DE/'s cash and cash equivalents in 20221231?",
+    "completion": "ALBANY INTERNATIONAL CORP /DE/ reported cash and cash equivalents of 291776000.0 in 20221231."
+  },
+  {
+    "prompt": "What was VALHI INC /DE/'s total assets in 20231231?",
+    "completion": "VALHI INC /DE/ reported total assets of 200900000.0 in 20231231."
+  },
+  {
+    "prompt": "What was ICORECONNECT INC.'s net income in 20240930?",
+    "completion": "ICORECONNECT INC. reported net income of -2132011.0 in 20240930."
+  },
+  {
+    "prompt": "What was ARTIVION, INC.'s total liabilities in 20241231?",
+    "completion": "ARTIVION, INC. reported total liabilities of 512901000.0 in 20241231."
+  },
+  {
+    "prompt": "What was PEAPACK GLADSTONE FINANCIAL CORP's net income in 20230630?",
+    "completion": "PEAPACK GLADSTONE FINANCIAL CORP reported net income of 13145000.0 in 20230630."
+  },
+  {
+    "prompt": "What was PRINCIPAL FINANCIAL GROUP INC's total assets in 20241231?",
+    "completion": "PRINCIPAL FINANCIAL GROUP INC reported total assets of 222907600000.0 in 20241231."
+  },
+  {
+    "prompt": "What was NGL ENERGY PARTNERS LP's revenue in 20240630?",
+    "completion": "NGL ENERGY PARTNERS LP reported revenue of 759234000.0 in 20240630."
+  },
+  {
+    "prompt": "What was ALBEMARLE CORP's revenue in 20241231?",
+    "completion": "ALBEMARLE CORP reported revenue of 5377526000.0 in 20241231."
+  },
+  {
+    "prompt": "What was STERLING REAL ESTATE TRUST's total assets in 20231231?",
+    "completion": "STERLING REAL ESTATE TRUST reported total assets of 241574000.0 in 20231231."
+  },
+  {
+    "prompt": "What was KILROY REALTY CORP's total assets in 20241231?",
+    "completion": "KILROY REALTY CORP reported total assets of 10898357000.0 in 20241231."
+  },
+  {
+    "prompt": "What was AES CORP's revenue in 20211231?",
+    "completion": "AES CORP reported revenue of 1316000000.0 in 20211231."
+  },
+  {
+    "prompt": "What was QDM INTERNATIONAL INC.'s net income in 20230331?",
+    "completion": "QDM INTERNATIONAL INC. reported net income of 44550.0 in 20230331."
+  },
+  {
+    "prompt": "What was AB COMMERCIAL REAL ESTATE PRIVATE DEBT FUND, LLC's total assets in 20231231?",
+    "completion": "AB COMMERCIAL REAL ESTATE PRIVATE DEBT FUND, LLC reported total assets of 749189000.0 in 20231231."
+  },
+  {
+    "prompt": "What was AIFEEX NEXUS ACQUISITION CORP.'s total liabilities in 20241231?",
+    "completion": "AIFEEX NEXUS ACQUISITION CORP. reported total liabilities of 1017060.0 in 20241231."
+  },
+  {
+    "prompt": "What was BF GARDEN TAX CREDIT FUND IV L.P.'s revenue in 20230331?",
+    "completion": "BF GARDEN TAX CREDIT FUND IV L.P. reported revenue of 28606.0 in 20230331."
+  },
+  {
+    "prompt": "What was DIGITAL REALTY TRUST, INC.'s revenue in 20241231?",
+    "completion": "DIGITAL REALTY TRUST, INC. reported revenue of 1216541000.0 in 20241231."
+  },
+  {
+    "prompt": "What was WILLIS LEASE FINANCE CORP's revenue in 20241231?",
+    "completion": "WILLIS LEASE FINANCE CORP reported revenue of 75551000.0 in 20241231."
+  },
+  {
+    "prompt": "What was WHITESTONE REIT's net income in 20231231?",
+    "completion": "WHITESTONE REIT reported net income of 19619000.0 in 20231231."
+  },
+  {
+    "prompt": "What was NOVABAY PHARMACEUTICALS, INC.'s net income in 20221231?",
+    "completion": "NOVABAY PHARMACEUTICALS, INC. reported net income of -10608000.0 in 20221231."
+  },
+  {
+    "prompt": "What was COOPER-STANDARD HOLDINGS INC.'s total assets in 20221231?",
+    "completion": "COOPER-STANDARD HOLDINGS INC. reported total assets of 447257000.0 in 20221231."
+  },
+  {
+    "prompt": "What was FARMERS & MERCHANTS BANCORP's total assets in 20241231?",
+    "completion": "FARMERS & MERCHANTS BANCORP reported total assets of 5370196000.0 in 20241231."
+  },
+  {
+    "prompt": "What was KRAIG BIOCRAFT LABORATORIES, INC's total assets in 20231231?",
+    "completion": "KRAIG BIOCRAFT LABORATORIES, INC reported total assets of 3232822.0 in 20231231."
+  },
+  {
+    "prompt": "What was TWILIO INC's total assets in 20231231?",
+    "completion": "TWILIO INC reported total assets of 11609707000.0 in 20231231."
+  },
+  {
+    "prompt": "What was READING INTERNATIONAL INC's net income in 20221231?",
+    "completion": "READING INTERNATIONAL INC reported net income of -36184000.0 in 20221231."
+  },
+  {
+    "prompt": "What was FIRST CITIZENS BANCSHARES INC /DE/'s total liabilities in 20231231?",
+    "completion": "FIRST CITIZENS BANCSHARES INC /DE/ reported total liabilities of 947000000.0 in 20231231."
+  },
+  {
+    "prompt": "What was ENVIVA INC.'s net income in 20231231?",
+    "completion": "ENVIVA INC. reported net income of -427588000.0 in 20231231."
+  },
+  {
+    "prompt": "What was LOCKHEED MARTIN CORP's revenue in 20241231?",
+    "completion": "LOCKHEED MARTIN CORP reported revenue of 66000000.0 in 20241231."
+  },
+  {
+    "prompt": "What was WALMART INC.'s total assets in 20240131?",
+    "completion": "WALMART INC. reported total assets of 15682000000.0 in 20240131."
+  },
+  {
+    "prompt": "What was DILLARD'S, INC.'s revenue in 20250131?",
+    "completion": "DILLARD'S, INC. reported revenue of 6590231000.0 in 20250131."
+  },
+  {
+    "prompt": "What was DOMINION ENERGY, INC's net income in 20231231?",
+    "completion": "DOMINION ENERGY, INC reported net income of -166000000.0 in 20231231."
+  },
+  {
+    "prompt": "What was BUNGE GLOBAL SA's total assets in 20211231?",
+    "completion": "BUNGE GLOBAL SA reported total assets of 0.0 in 20211231."
+  },
+  {
+    "prompt": "What was MOSAIC CO's total assets in 20211231?",
+    "completion": "MOSAIC CO reported total assets of 22036400000.0 in 20211231."
+  },
+  {
+    "prompt": "What was STRATEGIC STORAGE TRUST VI, INC.'s revenue in 20211231?",
+    "completion": "STRATEGIC STORAGE TRUST VI, INC. reported revenue of 1265772.0 in 20211231."
+  },
+  {
+    "prompt": "What was HAMILTON INSURANCE GROUP, LTD.'s total liabilities in 20231231?",
+    "completion": "HAMILTON INSURANCE GROUP, LTD. reported total liabilities of 178773000.0 in 20231231."
+  },
+  {
+    "prompt": "What was KNIFE RIVER CORP's revenue in 20241231?",
+    "completion": "KNIFE RIVER CORP reported revenue of 234652000.0 in 20241231."
+  },
+  {
+    "prompt": "What was PENNS WOODS BANCORP INC's net income in 20231231?",
+    "completion": "PENNS WOODS BANCORP INC reported net income of -117000.0 in 20231231."
+  },
+  {
+    "prompt": "What was FTAI AVIATION LTD.'s revenue in 20221231?",
+    "completion": "FTAI AVIATION LTD. reported revenue of 11499000.0 in 20221231."
+  },
+  {
+    "prompt": "What was CONSOLIDATED EDISON INC's revenue in 20241231?",
+    "completion": "CONSOLIDATED EDISON INC reported revenue of 10717000000.0 in 20241231."
+  },
+  {
+    "prompt": "What was CONOCOPHILLIPS's revenue in 20241231?",
+    "completion": "CONOCOPHILLIPS reported revenue of -37000000.0 in 20241231."
+  }
+]
