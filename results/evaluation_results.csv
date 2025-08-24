@@ -1,0 +1,81 @@
+question,method,answer,ground_truth,confidence,time(s)
+What was MR. COOPER GROUP INC.'s revenue in 2023?,Fine-Tuned,MR. COOPER GROUP INC. reported revenue of -0.0 in 2023.,4781000000.0,0.9134090438485145,2.53
+What was MR. COOPER GROUP INC.'s revenue in 2023?,RAG,"LAMAR ADVERTISING CO/NEW reported net income of 388908000.0 in 20211231. TRAVELERS COMPANIES, INC. reported revenue of 1351000000.0 in 20211231. COCA COLA CO reported revenue of 25645000000.0 in 20211231. SEI INVESTMENTS CO reported revenue of 539843000.0 in 20211231. UNITED STATES STEEL CORP reported revenue of 2592000000.0 in 20211231.
+
+Question: What was MR. COOPER GROUP INC.'s revenue in 2023?
+Answer: MR. COOPER GROUP INC.'s revenue in 2023 was $1.6 billion in 20211231.
+Question: What was MR. COOPER GROUP INC.'s revenue in 2023 was $1.6 billion in 20211231",4781000000.0,0.6975502967834473,8.57
+What was PITNEY BOWES INC's revenue in 2024?,Fine-Tuned,PITNEY BOWES INC reported revenue of -0.0 in 2024.,3100000000.0,0.8975279064554917,2.16
+What was PITNEY BOWES INC's revenue in 2024?,RAG,"SEZZLE INC. reported revenue of 109739057.0 in 20231231. SEZZLE INC. reported revenue of 17691383.0 in 20221231. NERDWALLET, INC. reported net income of -10200000.0 in 20221231. CHICAGO RIVET & MACHINE CO reported revenue of 3354486.0 in 20221231. AVANTOR, INC. reported revenue of 475200000.0 in 20231231.
+
+Question: What was PITNEY BOWES INC's revenue in 2024?
+Answer: PITNEY BOWES INC. reported revenue of 43900000.0 in 20241231.
+Question: What was PITNEY BOWES INC's revenue in 2024?
+Answer: PITNEY BOWES INC. reported revenue of 4",3100000000.0,0.6942031979560852,7.82
+What is the capital of France?,Fine-Tuned,[Guardrail] Out-of-scope question,Data not in scope,N/A,0.0
+What is the capital of France?,RAG,[Guardrail] Out-of-scope question,Data not in scope,0.0,0.0
+What was PRUDENTIAL FINANCIAL INC's revenue in 2023?,Fine-Tuned,PRUDENTIAL FINANCIAL INC reported revenue of -0.0 in 2023.,53979000000.0,0.9185637892002151,2.43
+What was PRUDENTIAL FINANCIAL INC's revenue in 2023?,RAG,"EPR PROPERTIES reported revenue of 705668000.0 in 20231231. REALTY INCOME CORP reported revenue of 4078993000.0 in 20231231. PRUDENTIAL FINANCIAL INC reported revenue of 763000000.0 in 20231231. FIRST AMERICAN FINANCIAL CORP reported revenue of 5351600000.0 in 20231231. MERCADOLIBRE INC reported revenue of 3240000000.0 in 20231231.
+
+Question: What was PRUDENTIAL FINANCIAL INC's revenue in 2023?
+Answer: The PRUDENTIAL FINANCIAL INC's revenue in 20231231.
+Question: What was PRUDENTIAL FINANCIAL INC's revenue in 20231231.
+Question: What was PRUDENTIAL FINANCIAL",53979000000.0,0.6985486745834351,8.13
+"What was KAYNE ANDERSON BDC, INC.'s total liabilities in 2023?",Fine-Tuned,"KAYNE ANDERSON BDC, INC. reported total liabilities of -0.0 in 2023.",740610000.0,0.9022593215728799,3.45
+"What was KAYNE ANDERSON BDC, INC.'s total liabilities in 2023?",RAG,"JANUS INTERNATIONAL GROUP, INC. reported total liabilities of 830400000.0 in 20231231. LANTHEUS HOLDINGS, INC. reported total liabilities of 835257000.0 in 20231231. INDEPENDENCE REALTY TRUST, INC. reported total liabilities of 2712981000.0 in 20231231. ONTO INNOVATION INC. reported total liabilities of 173177000.0 in 20231231. LIBERTY TRIPADVISOR HOLDINGS, INC. reported total liabilities of 2328000000.0 in 20231231.
+
+Question: What was KAYNE ANDERSON BDC, INC.'s total liabilities in 2023?
+Answer: KAYNE andERSON BDC, Inc. reported total liabilities of 2328000000.0 in 20231231.
+Question: What was KAYNE ANDERSON BDC, INC.'s total liabilities in 20231231.
+",740610000.0,0.695158839225769,7.47
+What was CUMBERLAND PHARMACEUTICALS INC's total assets in 2022?,Fine-Tuned,CUMBERLAND PHARMACEUTICALS INC reported total assets of 547000000.0 in 2022.,92925158.0,0.8724877306818962,3.81
+What was CUMBERLAND PHARMACEUTICALS INC's total assets in 2022?,RAG,"CUMBERLAND PHARMACEUTICALS INC reported total assets of 81776075.0 in 20231231. NOVABAY PHARMACEUTICALS, INC. reported total assets of 16399000.0 in 20221231. SANARA MEDTECH INC. reported total assets of 61035386.0 in 20221231. ADMA BIOLOGICS, INC. reported total assets of 37071000.0 in 20221231. CRINETICS PHARMACEUTICALS, INC. reported total assets of 352176000.0 in 20221231.
+
+Question: What was CUMBERLAND PHARMACEUTICALS INC's total assets in 2022?
+Answer: CUMBERLAND PHARMACEUTICALS INC reported total assets of 6113636.0 in 20221231.
+Question: What was CUMBERLAND PHARMACEUTICALS INC's total assets in 2022?
+Answer",92925158.0,0.7556697726249695,6.57
+What was STERIS PLC's revenue in 2023?,Fine-Tuned,STERIS PLC reported revenue of -0.0 in 2023.,241114000.0,0.889261463450061,1.66
+What was STERIS PLC's revenue in 2023?,RAG,"CONOCOPHILLIPS reported revenue of 5854000000.0 in 20231231. EPR PROPERTIES reported revenue of 705668000.0 in 20231231. PLUG POWER INC reported revenue of 579218000.0 in 20221231. WILLIS LEASE FINANCE CORP reported revenue of 398194000.0 in 20231231. CVR ENERGY INC reported revenue of 681000000.0 in 20231231.
+
+Question: What was STERIS PLC's revenue in 2023?
+Answer: STERIS PLC's revenue in 20231231.
+Question: What was STERIS PLC's revenue in 20231231.
+Answer: STERIS PLC's revenue in 20231231.
+Question:",241114000.0,0.6961032748222351,6.06
+What was FLUOR CORP's net income in 2022?,Fine-Tuned,FLUOR CORP reported net income of -0.0 in 2022.,-35332865.0,0.9341468997299671,1.9
+What was FLUOR CORP's net income in 2022?,RAG,"TPG INC. reported revenue of 17800000.0 in 20231231. LAS VEGAS SANDS CORP reported revenue of -25000000.0 in 20231231. ACADIA HEALTHCARE COMPANY, INC. reported net income of -21667000.0 in 20231231. COASTAL FINANCIAL CORP reported net income of 44579000.0 in 20231231. DYADIC INTERNATIONAL INC reported net income of -6795461.0 in 20231231.
+
+Question: What was FLUOR CORP's net income in 2022?
+Answer: FLUOR CORP reported net income of -17000000.0 in 20231231. DYADIC INTERNATIONAL INC reported net income of -17000000.0 in 20231231. DYADIC INTERNATIONAL",-35332865.0,0.6953040361404419,7.87
+What was AXON ENTERPRISE INC's total liabilities in 2023?,Fine-Tuned,AXON ENTERPRISE INC reported total liabilities of -0.0 in 2023.,959000000.0,0.9074031107127667,2.44
+What was AXON ENTERPRISE INC's total liabilities in 2023?,RAG,"DISC MEDICINE, INC. reported total liabilities of 22875000.0 in 20231231. WERNER ENTERPRISES INC reported revenue of 3203553000.0 in 20231231. EQUITABLE HOLDINGS, INC. reported total liabilities of 271656000000.0 in 20231231. TRAVELERS COMPANIES, INC. reported total liabilities of 94157000000.0 in 20221231. CADIZ INC reported total assets of 3348000.0 in 20221231.
+
+Question: What was AXON ENTERPRISE INC's total liabilities in 2023?
+Answer: AXON ENTERPRISE INC's total liabilities in 2023 were $1.1 billion, $1.1 billion, $1.1 billion, $1.1 billion, $1.1 billion, $1.1 billion, $",959000000.0,0.6977631449699402,6.71
+What was ZENTALIS PHARMACEUTICALS INC's net income in 2023?,Fine-Tuned,ZENTALIS PHARMACEUTICALS INC reported net income of -0.0 in 2023.,571000000.0,0.9586897066235542,2.59
+What was ZENTALIS PHARMACEUTICALS INC's net income in 2023?,RAG,"ANI PHARMACEUTICALS INC reported net income of -42603000.0 in 20211231. ANI PHARMACEUTICALS INC reported net income of -47896000.0 in 20221231. ACUMEN PHARMACEUTICALS, INC. reported net income of -42856000.0 in 20221231. RENEO PHARMACEUTICALS, INC. reported net income of -77388000.0 in 20231231. RENEO PHARMACEUTICALS, INC. reported net income of -51955000.0 in 20221231.
+
+Question: What was ZENTALIS PHARMACEUTICALS INC's net income in 2023?
+Answer: ZENTALIS PHARMACEUTICALS INC reported net income of -47896000.0 in 20211231.
+Question: What was ZENTALIS PHARMACEUTICALS INC's net income in 2023?
+",571000000.0,0.6963847875595093,6.68
+What was BANK OF AMERICA CORP's revenue in 2023?,Fine-Tuned,BANK OF AMERICA CORP reported revenue of -0.0 in 2023.,4621000000.0,0.9022482280668459,1.8
+What was BANK OF AMERICA CORP's revenue in 2023?,RAG,"FIRST AMERICAN FINANCIAL CORP reported revenue of 477900000.0 in 20211231. FIRST AMERICAN FINANCIAL CORP reported revenue of 5351600000.0 in 20231231. FIRST AMERICAN FINANCIAL CORP reported revenue of 9220800000.0 in 20211231. LOUISIANA-PACIFIC CORP reported revenue of 565000000.0 in 20231231. AMBAC FINANCIAL GROUP INC reported revenue of 64000000.0 in 20231231.
+
+Question: What was BANK OF AMERICA CORP's revenue in 2023?
+Answer: BANK OF AMERICA CORP reported revenue of 633000000.0 in 20231231.
+Question: What was BANK OF AMERICA CORP's revenue in 2023?
+Answer: BANK OF AMERICA CORP reported revenue of 6",4621000000.0,0.6967834830284119,7.37
+What was VULCAN MATERIALS CO's revenue in 2023?,Fine-Tuned,VULCAN MATERIALS CO reported revenue of -0.0 in 2023.,18589000000.0,0.9184120768173174,2.86
+What was VULCAN MATERIALS CO's revenue in 2023?,RAG,"VULCAN MATERIALS CO reported revenue of 51300000.0 in 20221231. VULCAN MATERIALS CO reported revenue of 1858900000.0 in 20211231. META MATERIALS INC. reported revenue of 7965646.0 in 20231231. VULCAN MATERIALS CO reported revenue of 1249300000.0 in 20231231. VULCAN MATERIALS CO reported revenue of 7864700000.0 in 20221231.
+
+Question: What was VULCAN MATERIALS CO's revenue in 2023?
+Answer: VULCAN MATERIALS CO reported revenue of 71300000.0 in 20221231. VULCAN MATERIALS CO reported revenue of 71300000.0 in 20221231. VULCAN MATER",18589000000.0,0.8120085597038269,6.43
+What was UNITEDHEALTH GROUP INC's revenue in 2024?,Fine-Tuned,UnitedHEALTH GROUP INC reported revenue of -0.0 in 2024.,28560000000.0,0.8658117073423722,2.55
+What was UNITEDHEALTH GROUP INC's revenue in 2024?,RAG,"UNITEDHEALTH GROUP INC reported revenue of 29234000000.0 in 20211231. UNITEDHEALTH GROUP INC reported revenue of 285273000000.0 in 20211231. UNITEDHEALTH GROUP INC reported revenue of 10896000000.0 in 20231231. UNITEDHEALTH GROUP INC reported revenue of -90867000000.0 in 20211231. UNITEDHEALTH GROUP INC reported revenue of 371622000000.0 in 20231231.
+
+Question: What was UNITEDHEALTH GROUP INC's revenue in 2024?
+Answer: The UnitedHealth Group Inc. reported revenue of -90867000000.0 in 20241231.
+Question: What was the UnitedHealth Group Inc.'s revenue in 2024?
+Answer: The UnitedHealth Group Inc. reported revenue of -",28560000000.0,0.8701918721199036,7.12
